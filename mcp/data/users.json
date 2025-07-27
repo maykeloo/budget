@@ -1,0 +1,28 @@
+[
+  {
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "address": "123 Main St, Anytown, USA",
+    "phone": "123-456-7890"
+  },
+  {
+    "name": "Jane Doe",
+    "email": "jane.doe@example.com",
+    "address": "456 Main St, Anytown, USA",
+    "phone": "123-456-7890"
+  },
+  {
+    "name": "mich",
+    "email": "michal.sukiennik.contact@gmail.com",
+    "address": "123",
+    "phone": "123",
+    "id": 3
+  },
+  {
+    "name": "Michał",
+    "email": "michal.sukiennik.contact@gmail.com",
+    "address": "123",
+    "phone": "123",
+    "id": 4
+  }
+]
