@@ -1,0 +1,12 @@
+[build]
+builder = "dockerfile"
+
+[deploy]
+dockerfilePath = "Dockerfile"
+startCommand = "./bin/docker-start"
+healthcheckPath = "/"
+healthcheckTimeout = 300
+restartPolicyType = "always"
+
+[environments.production]
+# Variables for production environment
